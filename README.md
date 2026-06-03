@@ -1,24 +1,19 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/6f301d6d-1db6-4add-b9ae-bd2ebe527133" alt="Sara's Banner" width="100%"></p>
-
-<p align="center">
-    <a href="https://github.com/SaraRGonz">
-        <img src="https://readme-typing-svg.herokuapp.com/?color=FFDE59&center=true&vCenter=true&width=380&height=45&lines=Full+Stack;Creative+Mind;Frontend+Enthusiast;Artistic+Background" alt="Typing SVG">
-    </a>
-</p>
-
-<div align="center">
-<p><b>Background:</b> Transitioned from special effects makeup & 2D/3D art to Web Development</p>
-<p><b>Current Focus:</b> Building robust full-stack applications with Next.js & React</p>
-<p><b>Philosophy:</b> Blending technical logic with strong artistic vision to build seamless UIs</p>
-<div>
-
-<hr>
-
 <H2 align="center"> About Me </H2>
 
 I am a Junior Full Stack Developer with a background in **Web Application Development (DAW)** and a strong artistic foundation. Before diving into programming, I worked in the visual arts world as a special effects makeup artist and explored 2D/3D character design. 
 
 This artistic background gives me a unique edge in frontend development: I look at code through a lens of composition, color theory, and user experience. While my initial passion drew me toward crafting beautiful frontends, I have expanding my horizons into backend engineering, database management, and architecture to build complete, efficient, and scalable digital solutions.
+
+---
+
+<h2 align="center">Featured Project</h2>
+
+### Checkpoint | [Repository](https://github.com/SaraRGonz/checkpoint-next) · [Live Demo](https://checkpoint-teal.vercel.app)
+
+A full-stack, immersive video game collection tracker designed with a sleek gaming aesthetic. It allows users to search for titles, organize them through an interactive Kanban board, and write detailed reviews.
+
+* **Key Features:** Multi-tenant database architecture, secure NextAuth & Firebase authentication, live stats dashboard, and an interactive drag-and-drop board built with optimistic UI updates.
+* **Tech Stack:** Next.js (App Router), React, TypeScript, Tailwind CSS v4, Prisma ORM, NeonDB (PostgreSQL), Zustand, and TanStack Query.
 
 ---
 
@@ -77,30 +72,4 @@ This artistic background gives me a unique edge in frontend development: I look 
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
 </p>
 
----
 
-<h2 align="center">Featured Project</h2>
-
-### Checkpoint | [Repository](https://github.com/SaraRGonz/checkpoint-next) · [Live Demo](https://checkpoint-teal.vercel.app)
-
-A full-stack, immersive video game collection tracker designed with a sleek gaming aesthetic. It allows users to search for titles, organize them through an interactive Kanban board, and write detailed reviews.
-
-* **Key Features:** Multi-tenant database architecture, secure NextAuth & Firebase authentication, live stats dashboard, and an interactive drag-and-drop board built with optimistic UI updates.
-* **Tech Stack:** Next.js (App Router), React, TypeScript, Tailwind CSS v4, Prisma ORM, NeonDB (PostgreSQL), Zustand, and TanStack Query.
-
----
-
-<h2 align="center">Future goals & collaboration</h2>
-
-* **What I'm working on:** Leveling up my skills in advanced frontend design systems while diving deeper into backend architecture, database optimization, and software testing.
-* **Looking to collaborate on:** Open-source projects or innovative applications where I can contribute my visual sensibilities and full-stack toolkit to build amazing digital products.
-
----
-
-<h2 align="center">Connect with me</h2>
-
-<p align="center">
-  <a href="mailto:sararg016@proton.me">
-    <img src="https://img.shields.io/badge/-Proton%20Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
